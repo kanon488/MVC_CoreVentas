@@ -1,0 +1,17 @@
+F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.BLL\bin\Debug\net6.0\Ventas.BLL.deps.json
+F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.BLL\bin\Debug\net6.0\Ventas.BLL.dll
+F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.BLL\bin\Debug\net6.0\Ventas.BLL.pdb
+F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.BLL\obj\Debug\net6.0\Ventas.BLL.csproj.AssemblyReference.cache
+F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.BLL\obj\Debug\net6.0\Ventas.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.BLL\obj\Debug\net6.0\Ventas.BLL.AssemblyInfoInputs.cache
+F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.BLL\obj\Debug\net6.0\Ventas.BLL.AssemblyInfo.cs
+F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.BLL\obj\Debug\net6.0\Ventas.BLL.csproj.CoreCompileInputs.cache
+F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.BLL\obj\Debug\net6.0\Ventas.BLL.dll
+F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.BLL\obj\Debug\net6.0\refint\Ventas.BLL.dll
+F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.BLL\obj\Debug\net6.0\Ventas.BLL.pdb
+F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.BLL\obj\Debug\net6.0\ref\Ventas.BLL.dll
+F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.BLL\bin\Debug\net6.0\Ventas.DAL.dll
+F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.BLL\bin\Debug\net6.0\Ventas.Entity.dll
+F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.BLL\bin\Debug\net6.0\Ventas.DAL.pdb
+F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.BLL\bin\Debug\net6.0\Ventas.Entity.pdb
+F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.BLL\obj\Debug\net6.0\Ventas.BLL.csproj.CopyComplete
