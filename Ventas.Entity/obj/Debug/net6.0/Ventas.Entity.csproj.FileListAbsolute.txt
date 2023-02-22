@@ -12,3 +12,17 @@ F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.Entity\obj\Debug\
 F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.Entity\obj\Debug\net6.0\Ventas.Entity.pdb
 F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.Entity\obj\Debug\net6.0\Ventas.Entity.genruntimeconfig.cache
 F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.Entity\obj\Debug\net6.0\ref\Ventas.Entity.dll
+C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.Entity\bin\Debug\net6.0\Ventas.Entity.deps.json
+C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.Entity\bin\Debug\net6.0\Ventas.Entity.runtimeconfig.json
+C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.Entity\bin\Debug\net6.0\Ventas.Entity.dll
+C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.Entity\bin\Debug\net6.0\Ventas.Entity.pdb
+C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.Entity\obj\Debug\net6.0\Ventas.Entity.csproj.AssemblyReference.cache
+C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.Entity\obj\Debug\net6.0\Ventas.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.Entity\obj\Debug\net6.0\Ventas.Entity.AssemblyInfoInputs.cache
+C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.Entity\obj\Debug\net6.0\Ventas.Entity.AssemblyInfo.cs
+C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.Entity\obj\Debug\net6.0\Ventas.Entity.csproj.CoreCompileInputs.cache
+C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.Entity\obj\Debug\net6.0\Ventas.Entity.dll
+C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.Entity\obj\Debug\net6.0\refint\Ventas.Entity.dll
+C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.Entity\obj\Debug\net6.0\Ventas.Entity.pdb
+C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.Entity\obj\Debug\net6.0\Ventas.Entity.genruntimeconfig.cache
+C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.Entity\obj\Debug\net6.0\ref\Ventas.Entity.dll
