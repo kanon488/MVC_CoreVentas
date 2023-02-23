@@ -23,6 +23,8 @@ namespace Ventas.IOC
             {
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultDB"));
             });
+
+            services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
         }
     }
 }
