@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "B8nA6wGBdmeRhv2EzX3WeeX0k+YTy/XBjRElAdYuFDq9G7CZH5X9i9gmZNBBwf/N8F6af1d3Nz5oy5vT/3F4vA==",
+  "dgSpecHash": "Ky4rQaJmSJVPrCRPm/vI6gIXntTBdBM1eoR6r4U6zofJhaiaZIg48dI4W44SIrtIVNqGsLUxV1KAh0D4CPO4nw==",
   "success": true,
   "projectFilePath": "F:\\Archivos\\Source\\GitHubICC\\netcore-projects\\VentasMVC\\Ventas.AplicacionWeb\\Ventas.AplicacionWeb.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\eduortiz\\.nuget\\packages\\firebaseauthentication.net\\3.7.2\\firebaseauthentication.net.3.7.2.nupkg.sha512",
+    "C:\\Users\\eduortiz\\.nuget\\packages\\firebasestorage.net\\1.0.3\\firebasestorage.net.1.0.3.nupkg.sha512",
     "C:\\Users\\eduortiz\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\eduortiz\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\eduortiz\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",

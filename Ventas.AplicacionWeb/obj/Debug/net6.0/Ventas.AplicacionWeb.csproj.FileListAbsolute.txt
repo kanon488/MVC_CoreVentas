@@ -550,3 +550,5 @@ C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.AplicacionW
 C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.AplicacionWeb\obj\Debug\net6.0\Ventas.AplicacionWeb.pdb
 C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.AplicacionWeb\obj\Debug\net6.0\Ventas.AplicacionWeb.genruntimeconfig.cache
 C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.AplicacionWeb\obj\Debug\net6.0\ref\Ventas.AplicacionWeb.dll
+F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.AplicacionWeb\bin\Debug\net6.0\Firebase.Auth.dll
+F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.AplicacionWeb\bin\Debug\net6.0\Firebase.Storage.dll
