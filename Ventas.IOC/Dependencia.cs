@@ -12,6 +12,7 @@ using Ventas.DAL.Interfaces;
 using Ventas.DAL.Implementacion;
 using Ventas.BLL.Interfaces;
 using Ventas.BLL.Implementacion;
+using AutoMapper.Configuration;
 
 namespace Ventas.IOC
 {
