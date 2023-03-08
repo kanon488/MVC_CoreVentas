@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Archivos\\Source\\GitHubICC\\netcore-projects\\VentasMVC\\Ventas.Entity\\Ventas.Entity.csproj": {}
+    "C:\\Users\\kanon\\Desktop\\Source\\netcore-projects\\MVC_CoreVentas\\Ventas.Entity\\Ventas.Entity.csproj": {}
   },
   "projects": {
-    "F:\\Archivos\\Source\\GitHubICC\\netcore-projects\\VentasMVC\\Ventas.Entity\\Ventas.Entity.csproj": {
+    "C:\\Users\\kanon\\Desktop\\Source\\netcore-projects\\MVC_CoreVentas\\Ventas.Entity\\Ventas.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Archivos\\Source\\GitHubICC\\netcore-projects\\VentasMVC\\Ventas.Entity\\Ventas.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\kanon\\Desktop\\Source\\netcore-projects\\MVC_CoreVentas\\Ventas.Entity\\Ventas.Entity.csproj",
         "projectName": "Ventas.Entity",
-        "projectPath": "F:\\Archivos\\Source\\GitHubICC\\netcore-projects\\VentasMVC\\Ventas.Entity\\Ventas.Entity.csproj",
-        "packagesPath": "C:\\Users\\eduortiz\\.nuget\\packages\\",
-        "outputPath": "F:\\Archivos\\Source\\GitHubICC\\netcore-projects\\VentasMVC\\Ventas.Entity\\obj\\",
+        "projectPath": "C:\\Users\\kanon\\Desktop\\Source\\netcore-projects\\MVC_CoreVentas\\Ventas.Entity\\Ventas.Entity.csproj",
+        "packagesPath": "C:\\Users\\kanon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kanon\\Desktop\\Source\\netcore-projects\\MVC_CoreVentas\\Ventas.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\eduortiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kanon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
