@@ -556,3 +556,5 @@ C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.AplicacionW
 C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.AplicacionWeb\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.AplicacionWeb\bin\Debug\net6.0\Firebase.Auth.dll
 C:\Users\kanon\Desktop\Source\netcore-projects\MVC_CoreVentas\Ventas.AplicacionWeb\bin\Debug\net6.0\Firebase.Storage.dll
+F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.AplicacionWeb\bin\Debug\net6.0\AutoMapper.dll
+F:\Archivos\Source\GitHubICC\netcore-projects\VentasMVC\Ventas.AplicacionWeb\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

@@ -11,7 +11,9 @@ namespace Ventas.AplicacionWeb.Utilidades.AutoMapper
         public AutoMapperProfile()
         {
             #region Rol
+            
             CreateMap<Rol, VMRol>().ReverseMap();
+            
             #endregion Rol
 
             #region Usuario

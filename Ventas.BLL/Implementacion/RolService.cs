@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,7 +17,7 @@ namespace Ventas.BLL.Implementacion
 
         public RolService(IGenericRepository<Rol> repositorio)
         {
-            _repositorio = _repositorio;
+            _repositorio = repositorio;
         }
         public async Task<List<Rol>> Lista()
         {
@@ -24,5 +25,6 @@ namespace Ventas.BLL.Implementacion
             return query.ToList();
 
         }
+
     }
 }
